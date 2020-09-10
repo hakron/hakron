@@ -24,5 +24,5 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/enriquealonsoarguelles/"><img alt="LinkedIn" src="https://www.linkedin.com/in/enriquealonsoarguelles/"></a>
-<a href="mailto:avsingh@umass.edu"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:enriquealonso608@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-enriquealonso608@hotmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
