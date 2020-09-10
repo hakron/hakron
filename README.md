@@ -10,19 +10,16 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Java | C++ | R (Statistics) | MATLAB
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | ReactJS
-- 🛢 &nbsp; MySQL | MongoDB
-- 🔧 &nbsp; Git | Markdown | Selenium | Tidyverse
-- 🖥 &nbsp; Illustrator| Photoshop | InDesign
+- 🌐 &nbsp; HTML | CSS | JavaScript | Node.js | ReactJS | Typescript
+- 🛢 &nbsp; PostgreSQL | GraphQL | Knex
+- 🔧 &nbsp; Git
+- 🖥 &nbsp; Photoshop
 
 <br/>
-
-[![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AVS1508&show_icons=true)](https://github.com/AVS1508)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/enriquealonsoarguelles/"><img alt="LinkedIn" src="https://www.linkedin.com/in/enriquealonsoarguelles/"></a>
+<a href="https://www.linkedin.com/in/enriquealonsoarguelles/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Enrique%20Alonso%20Arguelles-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:enriquealonso608@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-enriquealonso608@hotmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
