@@ -1,12 +1,14 @@
-<h2> Hey there! I'm Aditya.</h2>
+<h2> Hey there! I'm Enrique.</h2>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst.
-- 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+- 🔭 I'm a front-end Developer with experience designing, developing and building responsive web apps.
+
+- 🌱 I'm constantly learning new languages and creating my own personal projects.
+
+- 🚴‍♂️ I love cooking and videogames.
+
+- 👯 I’m looking forward to accepting new challenges that come my way and continue growing as a front-end developer and as a person and learn the most out of it.
 
 <h3>🛠 Tech Stack</h3>
 
