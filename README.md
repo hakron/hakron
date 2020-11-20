@@ -25,3 +25,8 @@
 <a href="https://www.linkedin.com/in/enriquealonsoarguelles/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Enrique%20Alonso%20Arguelles-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:enriquealonso608@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-enriquealonso608@hotmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
+
+<h3> Resume </h3>
+<p align="center">
+<a href="https://hakron.github.io/resume/">Resume</a>
+</p>
